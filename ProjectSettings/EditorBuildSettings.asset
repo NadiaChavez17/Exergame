@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BEATBOXER/Scenes/Demo.unity
+    guid: cd73204165476d347a9351d4203d0f49
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a16a5b05e3d2e47b39c79ff1c08050f4, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 800f7226d1299434e9f4c95341185e58, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1d5f4801c24f74e97ad8a83c55b86b5c, type: 2}
